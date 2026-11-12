@@ -52,13 +52,13 @@ A Python command-line tool that uses SHA-256 cryptographic hashes to detect modi
 
 ### Certifications & Professional Development
 
+- **CompTIA Security+ – Currently studying.**
 - IBM – Governance, Risk, Compliance, and Data Privacy.
 - IBM – Vulnerability Management.
 - IBM – Cybersecurity Fundamentals.
 - IBM – Information Technology Fundamentals.
 - Cisco – Introduction to Cybersecurity.
 - TOEIC – English B2 Certification.
-- **CompTIA Security+ – Currently studying.**
 
 ### Connect With Me
 
